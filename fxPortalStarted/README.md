@@ -25,4 +25,4 @@ To get started with this project, follow these steps:
 Good luck with your project!
 
 ### Author 
-Twitter: @OlorunsogoBanwo
+jeremiah
